@@ -8,6 +8,6 @@ Kelas: 24A
 Repository untuk belajan manajemen konfigurasi, khususnya version control dengan Git dan GitHub.
 
 ## Progress Belajar
-- [] Setup Git lokal
-- [] Buat Repository GitHub
-- [] Commit pertama
+- [✓] Setup Git lokal
+- [✓] Buat Repository GitHub
+- [✓] Commit pertama
